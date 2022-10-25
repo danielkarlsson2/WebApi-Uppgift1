@@ -1,0 +1,1 @@
+﻿ALTER TABLE CustomerTasks ADD TaskStatus bit not null default 0;
